@@ -5,3 +5,5 @@
 - 'git add': add <FILE> to staging area
 - 'git commit': commits the staging area, opens an editor for you to write a message
 - 'git log'
+- git push
+- git pull
